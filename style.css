@@ -40,11 +40,11 @@ body {
     padding-left: 2cm;
     /* Add the styles here */
     color: rgb(243, 246, 250);
-    font-size: 23px;
+    font-size: 25px;
   }
   
   .profile_name .contact_info {
-    font-size: 15px;
+    font-size: 17px;
     font-style: italic;
     display: flex;
     align-items: center;
