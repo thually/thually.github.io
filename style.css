@@ -185,7 +185,7 @@ body {
   }
   
   .project-card li {
-    font-size: 20px;
+    font-size: 18px;
     margin-left: 30px;
   }
   
@@ -203,7 +203,7 @@ body {
   .recommendation {
     font-style: italic;
     text-align: left;
-    width: 21.875rem;
+    width: 19rem;
     padding: 1rem;
     background-color: #fff;
     border-radius: 11px;
@@ -212,7 +212,7 @@ body {
     margin: 10px;
     border:1px solid gray;
     font-size: 18px;
-    height:150px
+    min-height:175px
   }
   
   .recommendation span {
